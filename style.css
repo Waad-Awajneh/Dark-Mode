@@ -4,6 +4,12 @@
     cursor: pointer;
 
 }
+
+:root{
+    --primary-color:#fff;
+    --secandory-color:#212121
+    }
+
 .light {
     --primary-color:#fff;
     --secandory-color:#212121
